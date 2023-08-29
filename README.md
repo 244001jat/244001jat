@@ -15,13 +15,13 @@ You can click the Preview link to take a look at your changes.
     <title>JATAR - Jahangeer Alam</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
+            jatar enterpries; 
+            background-color: black & green ;
+            margin: 1-2 ;
             padding: 0;
         }
         header {
-            background-color: #00cc99;
+            background-color: black , white and green ;
             color: white;
             text-align: center;
             padding: 1rem;
